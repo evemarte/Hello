@@ -1,1 +1,2 @@
-print("Hello from Git")
+message = "Hello from Git"
+print(message)
